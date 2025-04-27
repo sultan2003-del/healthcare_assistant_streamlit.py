@@ -1,5 +1,5 @@
-streamlit==1.7.0
+streamlit==1.17.0
 sentence-transformers==2.2.0
-torch==1.10.0
-requests==2.26.0
+torch==1.10.0+cpu
 numpy==1.21.2
+requests==2.26.0
